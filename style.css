@@ -1,0 +1,178 @@
+/* navbar,get started,search, */
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 500;
+    color: black;
+    margin: 4px;
+    font-size: xx-large;
+}
+
+.text-nav-color{
+    color: #fff !important;
+
+
+}
+
+/* Section No-1 */
+
+#carouselDark{
+    margin-top: 0%;
+    background-color: gray;
+}
+
+.carousel-caption{
+    padding: 15%;
+    font-weight: 500;
+
+}
+
+.carousel-item{
+    height: 100px;
+}
+
+
+
+/* sectionNo-2 */
+
+#section-2{
+    background-color:#F5F5F5;
+    position: relative;
+    bottom: -5px;
+}
+
+#section-2 #section2font{
+    position: relative;
+    margin-left: 8%;
+    top: 35px;
+   
+}
+
+.imgtag{
+    width: 450px;
+    height: 300px;
+    position:relative;
+    margin-left: 60%;
+    margin-top: -5%;
+    bottom: 25px;
+
+}
+
+
+/* sectionNo-3 */
+
+#section-3-color{
+    background-color: #CCCCCC;
+}
+
+.codelearn{
+    width: 450px;
+    height: 200px;
+    padding-top: 30px;
+    margin-left: 2%;
+    
+    
+}
+
+.text-section-3{
+    padding-left: 23px;
+    padding-top: 10px;
+
+}
+
+.sec-no-3-photo{
+   
+    padding: 2%;
+    margin-left: 41%;
+    margin-top: -30%;
+    
+
+}
+
+.sec-no-3-photo .photo-text-1 .photo-1{
+    height: 100px;
+    width: 100px;
+    margin-top: -0%;
+    margin-left: -7%;
+
+    
+}
+
+.sec-no-3-photo .photo-text-1 .photo-text-1-p{
+    font-size: small;
+    margin-left: 9%;
+    margin-top: -13%;
+}
+
+.sec-no-3-photo .photo-text-2 .photo-2{
+    height: 100px;
+    width: 100px;
+    margin-top: 10%;
+    margin-left: -7%;
+    
+}
+
+.sec-no-3-photo .photo-text-2 .photo-text-2-p{
+    font-size: small;
+    margin-left: 9%;
+    margin-top: -13%;
+
+}
+
+.sec-no-3-photo .photo-text-3 .photo-3{
+    height: 100px;
+    width: 100px;
+    margin-top: 10%;
+    margin-left: -7%;
+    
+}
+
+.sec-no-3-photo .photo-text-3 .photo-text-3-p{
+    font-size: small;
+    margin-left: 9%;
+    margin-top: -13%;
+    /* padding-bottom: -7%; */
+}
+
+.sec-3-beach{
+    height: 200px;
+    width: 300px;
+    margin-left: 75% ;
+    
+    bottom: 50px;
+}
+
+.sec-3-beach .sec-3-beach-img{
+    border-radius: 5px;
+    margin-top: -230%;
+}
+
+.sec-3-beach .sec-3-beach-text{
+    margin-top: -70%;
+    padding: 5px;
+    margin-bottom: 20%;
+}
+
+
+/* footer section */
+#footer{
+    background-color:rgba(18, 22, 26, 0.897);
+    margin-top: -4%;
+    
+}
+
+#footer #fontcolor{
+    color: #fff;
+}
+
+#footer #follow{
+    text-align: center;
+    color: #fff;
+}
+
+.carousel-item{
+    height: 100px;
+    min-height: 300px;
+    background: no-repeat scroll center scroll;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
